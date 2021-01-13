@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         替換所有噗浪表符成大野智拍手笑
-// @version      0.1
+// @version      0.2
 // @description  將所有噗浪表符換成大野智拍手笑，當你很想念韓國阿姨的時候可以用
-// @author       Kanzaki K
 // @match        https://www.plurk.com/*
 // @require      https://code.jquery.com/jquery-3.5.1.slim.js
 // ==/UserScript==
