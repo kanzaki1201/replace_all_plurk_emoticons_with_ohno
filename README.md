@@ -1,0 +1,2 @@
+# replace_emoticon_with_ohno
+將噗浪上所有表符替換成大野智拍手笑.gif
